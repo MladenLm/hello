@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mladen</h1>
 
-<h3 align="center">A creative webDeveloper</h3>
+<h3 align="center">A webdeveloper</h3>
 
-<p align="center"><img src="images/hello_there.gif"></p>
+<!--<p align="center"><img src="images/hello_there.gif"></p>-->
 
 
 - 🔭 I’m currently working on an NFT project called Replicas</a>
